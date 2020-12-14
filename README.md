@@ -11,7 +11,7 @@ In this exercise, the UFO Sightings web page was built using html (Hypertext Mar
 ## Results
 Here is the finished webpage.
 
-![UFO Sightings webpage](/images/ufos_sighting.png) 
+![ufos_sightings.png](/images/ufos_sighting.png) 
 
 
 ## Summary
