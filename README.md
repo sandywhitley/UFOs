@@ -1,5 +1,5 @@
-# UFO Sightings Challenge
-#### VDAB Module 11 HTML, Javascript, and Bootstrap
+# UFO Sightings Webpage Challenge
+####VDAB Module 11 HTML, CSS, Bootstrap and Javascript 
 Sandra Whitley | Dec 2020
 **************************************************
 
@@ -9,7 +9,9 @@ The purpose of the UFO Sightings website project was to practice html, javascrip
 In this exercise, the UFO Sightings web page was built using html (Hypertext Markup Language) primarily for the web page structure and then css (Cascading Style Sheets)and Bootstrap for styling queues. The app.js (Javascript) was written to give the webpage table searchable functionality while the data.js file served as the searchable content for the webpage table.
 
 ## Results
-Here is the finished webpage.
+The background color and top banner "The Truth Is Out There" referenced color and jumbotron css elements. The basic form organization was determined by html but the font sizing, font color, and button emphasis elements were determined by bootstrap style components.
+
+The webpage pic shows the Filter Search filtered on Enter Date 1/13/2010. The Filter Search functionality was driven by the app.js file  whereas the table data referenced the data.js file.
 
 
 ![webpage](/static/images/ufos_sighting.PNG)
