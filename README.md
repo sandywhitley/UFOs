@@ -1,5 +1,5 @@
 # UFO Sightings Challenge
-####VDAB Module 11 HTML, Javascript, and Bootstrap
+#### VDAB Module 11 HTML, Javascript, and Bootstrap
 Sandra Whitley | Dec 2020
 **************************************************
 
